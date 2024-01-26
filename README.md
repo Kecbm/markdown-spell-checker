@@ -61,7 +61,7 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 
 ### Linux
 
-* `fn + F5`: Start the extension
+* Open the file `extension.js` and `fn + F5` for: Start the extension
 
 ## For more information
 
